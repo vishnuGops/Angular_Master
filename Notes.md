@@ -1,12 +1,18 @@
-What is Angular?
--- Frontend javascript framework to build UI for apps. Helps build interactive, modern web user interface.
--- Collection of tools and features to build basic to complex web applications.
---Simplifies the process of building complex web applications by giving various rules and features and concepts to use.
+# What is Angular?
 
-Why a framework?
--- can write declaractive code instead of vanilla JS.
-Vanilla JS - Step by step explicit instructions to web
-Declarative JS - Used by Angular, where we define the target state or states which contains special instructions unlocked by angular. We can define target states to be custom, and write declarative code in markup and angular does the heavy lifting.
--- Use of components which are custom HTML templates which can be used to build overall inteface by breaking everything into simpler blocks. Not only simify components but also logic can be broken up making software dev simpler.
--- Embraces some OOP principles and concepts.
--- Uses Typescript not javascript. Typescript is javascript with strict and strong typing added. Easier to catch errors in typescript.
+- Angular is a frontend JavaScript framework used to build user interfaces (UI) for web applications. It enables the creation of interactive, modern web UIs.
+- It provides a collection of tools and features to build web applications ranging from simple to complex.
+- Angular simplifies the development process by providing structured rules, features, and concepts that streamline the building of complex web applications.
+
+# Why Use a Framework?
+
+- **Declarative Code**: Unlike vanilla JavaScript, which requires step-by-step explicit instructions, Angular allows developers to write declarative code. This means defining the desired state or states, and Angular manages the details to reach those states.
+
+  - **Vanilla JavaScript**: Requires explicit, step-by-step instructions.
+  - **Declarative JavaScript**: Used by Angular to define target states with special instructions, simplifying the development process.
+
+- **Component-Based Architecture**: Angular uses components, which are custom HTML templates, to build the overall interface. This approach breaks the application into simpler, reusable blocks, making both UI development and logic management easier and more modular.
+
+- **Object-Oriented Principles**: Angular embraces certain object-oriented programming (OOP) principles and concepts, which can help in organizing and maintaining code.
+
+- **TypeScript Integration**: Angular uses TypeScript instead of JavaScript. TypeScript is a superset of JavaScript that includes strict and strong typing, making it easier to catch errors during development and improving code maintainability.
