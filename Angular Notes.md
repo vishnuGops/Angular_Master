@@ -16,3 +16,8 @@
 - **Object-Oriented Principles**: Angular embraces certain object-oriented programming (OOP) principles and concepts, which can help in organizing and maintaining code.
 
 - **TypeScript Integration**: Angular uses TypeScript instead of JavaScript. TypeScript is a superset of JavaScript that includes strict and strong typing, making it easier to catch errors during development and improving code maintainability.
+
+# Creating an Angular Project
+
+- [text](https://angular.dev/tools/cli)
+- [text](https://nodejs.org/en)
