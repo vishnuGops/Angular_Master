@@ -21,3 +21,6 @@
 
 - [text](https://angular.dev/tools/cli)
 - [text](https://nodejs.org/en)
+
+- npm install
+- npm start
