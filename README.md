@@ -72,3 +72,33 @@ And, in general, you can learn more about TypeScript's support for classes here.
 That being said, you don't have to study classes in-depth right now. You'll see most of those important features in action throughout this course.
 
 For the moment, it's just important to understand that this classes feature exists, what it does (= create blueprints for objects) and how to work with classes.
+
+# Generating Components in Angular 18
+
+In Angular, components are the building blocks of the application UI. The Angular CLI provides powerful commands to generate components, reducing the need for manual setup.
+
+ng generate component
+
+The primary command to generate a new component in Angular 18 is:
+
+ng generate component component-name
+
+or its shorthand:
+
+ng g c component-name
+
+What This Command Does:
+
+Creates a new folder with the component name inside the current working directory.
+
+Generates four files:
+
+component-name.component.ts (TypeScript file for logic)
+
+component-name.component.html (Template file for UI)
+
+component-name.component.css/scss/less (Styles file based on project configuration)
+
+component-name.component.spec.ts (Test file for unit testing)
+
+Automatically declares the component in the nearest Angular module (if applicable).
